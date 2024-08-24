@@ -58,4 +58,5 @@ Future employers would appreciate the comprehensive vulnerability assessment and
 •	Implement secure coding practices.
 •	Identify and mitigate software vulnerabilities.
 •	Work within an agile framework to improve both functionality and security.
+
 By presenting before-and-after code samples, vulnerability reports, and documentation on the security improvements made, I can demonstrate my technical and problem-solving skills effectively.
